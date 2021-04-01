@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prathamesh1301
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning android development and machine learning
-- 📫 How to reach me:linkedin:https://www.linkedin.com/in/prathamesh-autade-a7a011194/
+- 📫 How to reach me: https://www.linkedin.com/in/prathamesh-autade-a7a011194/
  
 
 <!---
